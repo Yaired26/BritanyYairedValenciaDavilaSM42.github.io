@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(21, 20, 20);
+}
+h3{
+    color: rgb(231, 231, 231);
+}
+
+.contorno{
+    margin-left: 50px;
+    position: relative;
+    width: 20cm;
+    height: 10cm;
+    background: linear-gradient(rgb(216, 209, 197),rgb(209, 193, 157));
+    border-radius: 10px;
+}
+.top_bar{
+    width: 20cm;
+    height: 1.25cm;
+    background-color: rgb(141, 125, 102);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    
+}
+.forma{
+    width: 20cm;
+    height: 2.5cm;
+    background-color: rgb(141, 125, 102);
+    border-radius: 50%;
+}
+.palo{
+    width: 0.5cm;
+    height: 7cm;
+    background-color: rgb(176, 2, 2);
+}
+#palo{
+    width: auto;
+    height: auto;
+    margin-right: 1px;
+}
+.img{
+    width: 150px;
+    height: 150px;
+}
+.txt{
+    text-align: left;
+}
+#info{
+    font-size: small;
+}
+#aguila{
+    width: 100px;
+    height: 100px;
+}
+#logo{
+    display: flex;
+    align-items: center;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+#foto{
+    align-items: center;
+    margin-left: 15px;
+    margin-right: 15px;
+}
